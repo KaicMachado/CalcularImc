@@ -5,9 +5,13 @@
 ![127 0 0 1_5500_](https://github.com/KaicMachado/CalcularImc/assets/108227456/2c6bbd1d-76b2-4b12-944a-72d600c2ae91)
 
 ## Technologies ⚒
+
 - HTML
 - CSS
 - JavaScript
 - Git e GitHub
 
-## 📱 Contact 
+## 📱 Contact
+
+Linkedin : [https://www.linkedin.com/in/kaic-mach ](https://www.linkedin.com/in/kaicmachado/)<br>
+Email 📧 : kaicmachado2@gmail.com
